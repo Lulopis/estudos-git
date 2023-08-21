@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="280" src="https://i.pinimg.com/originals/df/11/fa/df11fa8885a9a2172b8fe6acece38687.jpg"> <br>
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="150" src="https://i.pinimg.com/originals/df/11/fa/df11fa8885a9a2172b8fe6acece38687.jpg"> <br>
 
  
 <h1>
@@ -9,7 +9,7 @@
 
  Olá! Me chamo Madelu Lopes.
  Sou professora de música, instrumentista, compositora, arranjadora e quadrinista natural de Fortaleza-ce.
- Atualmente estou estou cursando a faculdade de Análise e Desenvolvimento de Sistemas e estudando UX Design e Desenvolvimento mobile com Kotlin.
+ Atualmente estou cursando a faculdade de Análise e Desenvolvimento de Sistemas e estudando UX Design e Desenvolvimento mobile com Kotlin.
  Gosto de assistir filmes, comer pizza, ler, sair com amigas e cuidar dos meus 5 gatos. Sou uma entusiata da tecnologia que adora saber como ela esta se desenvolvendo.
 
 ## Conecte-se comigo
